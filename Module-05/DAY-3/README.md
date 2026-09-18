@@ -17,11 +17,11 @@ To Create a java program to print the sum of two number using getter and setter 
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a Getter and Setter using Java
-Developed by: Aswin B
-RegisterNumber:  212224110007
-*/
+Developed by: GOKULRAJ K
+RegisterNumber:  212225040096
+
 ```
 
 ## Sourcecode.java:
