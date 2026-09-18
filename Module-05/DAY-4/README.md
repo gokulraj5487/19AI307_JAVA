@@ -17,11 +17,11 @@
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a IS-A RELATIONSHIP AND HAS-A RELATIONSHIP using Java
-Developed by: Aswin B
-RegisterNumber:  212224110007
-*/
+Developed by: GOKULRAJ K
+RegisterNumber:  212225040096
+
 ```
 
 ## Sourcecode.java:
