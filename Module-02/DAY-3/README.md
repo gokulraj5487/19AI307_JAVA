@@ -23,13 +23,9 @@ To write a Java program that defines a class Person with private variables and p
 
 ## PROGRAM:
  ```
-/*
 Program to implement a Access Specifiers using Java
-Developed by: DHIREN D
-RegisterNumber: 212225040074
-
-
-*/
+Developed by: GOKULRAJ K
+RegisterNumber:  212225040096
 ```
 
 ## SOURCE CODE:
