@@ -28,11 +28,11 @@ To create  a Java program to perform the inheritance concept for employee detail
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a Inheritance using Java
-Developed by: Aswin B
-RegisterNumber:  212224110007
-*/
+Developed by: GOKULRAJ K
+RegisterNumber:  212225040096
+
 ```
 
 ## Sourcecode.java:
