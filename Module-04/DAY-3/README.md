@@ -25,11 +25,9 @@ To Create a Java program to implement super keyword in constructor.
 
 ## PROGRAM:
  ```
-/*
 Program to implement a Constructor Chaining using Java
-Developed by: Aswin B
-RegisterNumber:  212224110007
-*/
+Developed by: GOKULRAJ K
+RegisterNumber:  212225040096
 ```
 
 ## Sourcecode.java:
