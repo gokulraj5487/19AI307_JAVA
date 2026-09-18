@@ -14,11 +14,9 @@ To write a Java program that creates a StringBuilder object using a given string
 
 ## PROGRAM:
  ```
-/*
 Program to implement a StringBuilder Object Reference in Java
-Developed by: DHIREN D
-RegisterNumber:  212225040074
-*/
+Developed by: GOKULRAJ K
+RegisterNumber:  212225040096
 ```
 
 ## Sourcecode.java:
