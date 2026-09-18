@@ -21,13 +21,9 @@ To write a Java program that demonstrates method overriding using inheritance an
 
 ## PROGRAM:
  ```
-/*
 Program to implement a Polymorphism using Java
-Developed by: DHIREN D 
-RegisterNumber: 212225040074
-
-
-*/
+Developed by: GOKULRAJ K
+RegisterNumber:  212225040096
 ```
 
 ## SOURCE CODE:
